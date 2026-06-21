@@ -75,18 +75,23 @@ parking-slot-booking-syatem
 ## Screenshots
 
 - Landing Page
+  
   <img width="1222" height="625" alt="image" src="https://github.com/user-attachments/assets/834b1a47-6ff2-4e60-bf1c-8f01bdee9a61" />
 
 - Available Slots Page
+  
   <img width="1227" height="616" alt="image" src="https://github.com/user-attachments/assets/c7cfd6f2-4de1-4093-978c-31c5770ef5cb" />
 
 - Booking Page
+  
   <img width="1227" height="632" alt="image" src="https://github.com/user-attachments/assets/243b3adb-938e-410f-a016-9d73b62b6db6" />
 
 - Booking Status Page
+  
   <img width="1228" height="630" alt="image" src="https://github.com/user-attachments/assets/bcceed82-e5a9-4e47-9d79-74227766f8bd" />
 
 - Admin Dashboard
+  
   <img width="1226" height="626" alt="image" src="https://github.com/user-attachments/assets/0fa77682-db4f-48a2-bb75-c03fea6961af" />
 
 
