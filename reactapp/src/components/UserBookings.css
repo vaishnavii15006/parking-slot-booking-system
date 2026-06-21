@@ -1,0 +1,36 @@
+.user-bookings-container {
+
+background-color: #e3f2fd;
+padding: 20px;
+border-radius: 12px;
+}
+
+.user-bookings-container h2 {
+  color: #1565c0;
+  margin-bottom: 15px;
+}
+
+.user-bookings-container div[data-testid^="booking-item-"] {
+  background-color: #ffffff;
+  margin-bottom: 12px;
+  padding: 16px;
+  border-left: 6px solid #2196f3;
+  border-radius: 8px;
+}
+
+.user-bookings-container p {
+  margin: 4px 0;
+}
+
+.user-bookings-container button {
+  background-color: #e53935;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.user-bookings-container button:hover {
+  background-color: #b71c1c;
+}
